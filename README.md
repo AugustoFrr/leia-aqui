@@ -36,7 +36,7 @@ Logo feita por: **[Guilherme Alves](https://github.com/guilhermealves63)**
 Clique para expandir!
 
 <img src="https://github.com/AugustoFrr/leia-aqui/blob/master/screenshots/splash_screen.jpg" width="200"> </img>
-<img src="https://github.com/AugustoFrr/leia-aqui/blob/master/screenshots/login_screen2.jpg" width="200"> </img>
+<img src="https://github.com/AugustoFrr/leia-aqui/blob/master/screenshots/login_screen.jpg" width="200"> </img>
 <img src="https://github.com/AugustoFrr/leia-aqui/blob/master/screenshots/main_menu.jpg" width="200"> </img>
 <img src="https://github.com/AugustoFrr/leia-aqui/blob/master/screenshots/insert_screen.jpg" width="200"> </img>
 <img src="https://github.com/AugustoFrr/leia-aqui/blob/master/screenshots/search_books.jpg" width="200"> </img>
