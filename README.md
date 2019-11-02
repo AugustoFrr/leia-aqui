@@ -29,3 +29,15 @@ Logo feita por: **[Guilherme Alves](https://github.com/guilhermealves63)**
 
 3. O sistema deve ter uma tela inicial de login, com usuário e senha para acesso.
 4. Ao abrir o aplicativo, uma splash screen com o logotipo da biblioteca deve ser exibido."
+
+
+## Screenshots:
+
+Clique para expandir!
+
+<img src="https://github.com/AugustoFrr/leia-aqui/blob/master/screenshots/splash_screen.jpg" width="200"> </img>
+<img src="https://github.com/AugustoFrr/leia-aqui/blob/master/screenshots/login_screen2.jpg" width="200"> </img>
+<img src="https://github.com/AugustoFrr/leia-aqui/blob/master/screenshots/main_menu.jpg" width="200"> </img>
+<img src="https://github.com/AugustoFrr/leia-aqui/blob/master/screenshots/insert_screen.jpg" width="200"> </img>
+<img src="https://github.com/AugustoFrr/leia-aqui/blob/master/screenshots/search_books.jpg" width="200"> </img>
+<img src="https://github.com/AugustoFrr/leia-aqui/blob/master/screenshots/borrowed_screen.jpg" width="200"> </img>
