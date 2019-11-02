@@ -1,0 +1,108 @@
+<resources>
+    <string name="app_name">LeiaAqui</string>
+    <string name="botao_cliente">Clientes</string>
+    <string name="botao_cat_cliente">Categorias  De Leitores</string>
+    <string name="botao_livros">Livros</string>
+    <string name="botao_cat_livros">Categorias  De Livros</string>
+    <string name="alterar_excluir_text">Alterar/Excluir</string>
+    <string name="alterar_text">Alterar</string>
+    <string name="adicionar_text">Adicionar</string>
+    <string name="excluir_text">Excluir</string>
+    <string name="exit_message">Tem certeza que deseja sair?</string>
+    <string name="sair">Sair</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="consultar">Consultar</string>
+    <string name="usuario">Usuário</string>
+    <string name="senha">Senha</string>
+    <string name="keyword">Keyword</string>
+    <string name="pesquisar">Pesquisar…</string>
+    <string name="no_results">Nenhum resultado encontrado!</string>
+
+    <string name="cod_res">Código</string>
+    <string name="isbn_res">ISBN</string>
+    <string name="titulo_res">Título</string>
+
+    <string name="selecione_cat">Selecione a Categoria</string>
+    <string name="autores_res">Autores</string>
+    <string name="palavras_chave">Palavras-Chave</string>
+    <string name="data_pub">Data de Publicação</string>
+    <string name="num_edicao">Número de Edição</string>
+    <string name="editora_res">Editora</string>
+    <string name="num_paginas">Número de Páginas</string>
+
+    <string name="cat_livros">Categoria de Livro</string>
+    <string name="cod_categoria">Categoria</string>
+    <string name="cod_categoria_text"> </string>
+    <string name="desc_categoria">Descrição da Categoria</string>
+    <string name="desc_categoria_text"> </string>
+    <string name="dias_emprestados">Máximo de Dias Emprestados</string>
+    <string name="dias_emprestados_text"> </string>
+    <string name="taxa_multa">Taxa de Multa</string>
+    <string name="taxa_multa_text"> Taxa de Multa </string>
+    <string name="botaoConfirmar">Confirmar</string>
+
+    <string name="leitoresTitulo">Categoria de Leitor</string>
+
+    <string name="nome_res">Nome</string>
+    <string name="email_res">E-mail</string>
+    <string name="celular_res">Celular</string>
+    <string name="data_nascimento">Nascimento</string>
+    <string name="endereco_res">Endereço</string>
+    <string name="cpf_res">CPF</string>
+    <string name="login_res">Entrar</string>
+
+    <string name="preencha">Preencha Todos os Campos!</string>
+
+    <string name="sucessoInserir">Registro inserido com sucesso!</string>
+    <string name="erroInserir">Erro ao inserir registro, tente novamente!</string>
+
+    <string name="sucessoAlterar">Registro alterado com sucesso!</string>
+    <string name="erroAlterar">Erro ao alterar registro, tente novamente!</string>
+    <string name="sucessoDeletar">Registro deletado com sucesso!</string>
+
+    <string name="emprestar">Emprestar livro</string>
+    <string name="mensagem_emprestar">Deseja emprestar esse livro</string>
+    <string name="sucesso_emprestado">Livro emprestado com sucesso!</string>
+    <string name="erro_emprestado">Erro ao emprestar livro, tente novamente!</string>
+    <string name="lista_emp_text">Clique aqui para acessar a lista de livros emprestados!</string>
+    <string name="deseja_emprestar">Deseja emprestar</string>
+    <string name="para">Para</string>
+    <string name="devolConf">Confirmar devolução do livro:</string>
+    <string name="livroDevolvido">Livro devolvido com sucesso!</string>
+    <string name="vamos">Vamos lá</string>
+
+    <string name="alertCatCliente">Para continuar, você precisa cadastrar uma categoria de leitor antes!</string>
+    <string name="alertCatLivro">Para continuar, você precisa cadastrar uma categoria de livro antes!</string>
+    <string name="confrimarExcluir">Tem certeza que deseja excluir?</string>
+    <string name="nome_rafael">Rafael</string>
+    <string name="email_ex">rafael123@gmail.com</string>
+    <string name="cel_ex">11 12345–6789</string>
+    <string name="nasc_ex">17/02/1999</string>
+    <string name="cpf_ex">472.728.236–53</string>
+    <string name="endereco_ex">Rua dos Pinheiros 280</string>
+    <string name="cat_leitor_ex">Estudante</string>
+    <string name="desc_cat_ex">Ensino Superior</string>
+    <string name="max_dias_ex">5</string>
+    <string name="cod_ex">L25461</string>
+    <string name="isbn_ex">978–3–16–148410–0</string>
+    <string name="titulo_ex">Harry Potter</string>
+    <string name="autor_ex">JK Rowling</string>
+    <string name="palavra_ex">Magia, Escolar</string>
+    <string name="public_ex">25/08/2019</string>
+    <string name="edicao_ex">1ª</string>
+    <string name="editora_ex">Bloomsbury</string>
+    <string name="num_pag_ex">223</string>
+    <string name="cat_livro_ex">Livro F</string>
+    <string name="desc_cat_livro_ex">Livro de Fantasia</string>
+    <string name="max_dias_livro_ex">12</string>
+    <string name="multa_ex">10,00</string>
+    <string name="toast_cpf">Preencha o CPF corretamente!</string>
+    <string name="digite_user">Digite um nome de usuário!</string>
+    <string name="bem_vindo">Bem-vindo(a)!</string>
+    <string name="senha_incorreta">Senha incorreta!</string>
+    <string name="user_not_found">Usuário não encontrado!</string>
+    <string name="impedeDel">Você não pode excluir essa categoria pois existem clientes que estão cadastrados com ela!</string>
+    <string name="lista_de_clientes">Lista de Clientes</string>
+    <string name="lista_de_livros_emprestados">Lista de Livros Emprestados</string>
+    <string name="lista_de_livros">Lista de Livros</string>
+</resources>
