@@ -2,7 +2,7 @@
 
 Aplicativo para uso de bibliotecários(as), auxiliando nas atividades de empréstimo e devolução de livros.
 
- **[Download do APK](http://www.augustofrr.ga/#portfolio)**
+ **[Download do APK](http://augustofrr.com/#portfolio)**
 
 Login: ‘user’
 Senha: ‘12345’
